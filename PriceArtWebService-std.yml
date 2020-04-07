@@ -1,0 +1,15 @@
+#Application Config
+application:
+ listino: 1
+ sconto: 0
+
+# ==============================================================
+# = Actuator Info
+# ==============================================================
+info:
+ assistenza:
+  nome: "Fabio Montefusco"
+ nome:
+  nome-app: "PriceArt Web Service - con JWT"
+ profilo: "Standard con Sconto"
+          
